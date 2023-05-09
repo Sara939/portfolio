@@ -29,8 +29,8 @@ import React from 'react'
                 {" "}
                 A software developer with experience in building Responsive and
                 Scalable Web apps. I am well-knowledged in MERN stack development principles and
-                practices. In addition to software development, I am also a
-                a travel lover, enjoing spending my time in nature, or in a plane. always  with a good book .
+                practices. In addition to my love to coding, I am also a
+                a travel lover, enjoing spending time in nature, or in a plane. always  with a good book .
               </p>
             </div>
           </div>
