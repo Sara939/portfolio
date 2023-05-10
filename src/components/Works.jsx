@@ -145,7 +145,7 @@ function Works() {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-              profile page- My first Project
+              Profile page- My first Project
               </span>
               <p className='text-center'>A profile page built with HTML And css</p>
               <div className='pt-8 text-center'>

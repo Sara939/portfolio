@@ -28,6 +28,9 @@
 img, video {
     max-width: 80%;
 }
+contact{
+    padding: 10%;
+}
 h2, p{
    text-align: left;
 }
