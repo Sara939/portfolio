@@ -25,7 +25,7 @@ function Works() {
               <span className=' text-lg font-bold text-white tracking-wider'>
                  Dreamy trips Application
               </span>
-              <p className='text-center'>A web application built with HTML, CSS Grid and Flex Layout & Animations And Bootstrap </p>
+              <p className='text-center'> Built with HTML, CSS: Grid Layout & Animations, Bootstrap </p>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/sara-likaount/project-d-s-dreamy-trips'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -44,7 +44,7 @@ function Works() {
               <span className=' text-lg font-bold text-white tracking-wider'>
                   Get Inspierd Application
               </span>
-              <p className='text-center'>Built with Java script and Web api such as wikipedia api and more, deployed to github pages</p>
+              <p className='text-center'> Built with Java script and Web api such as wikipedia api and more, deployed to github pages</p>
               <div className='pt-8 text-center'>
                 <a href=' https://sara-likaount.github.io/Get-Inspired/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
