@@ -11,21 +11,21 @@ function Works() {
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-cyan-500'>
             Work
           </p>
-          <p className='py-6 text-2xl'>Check out some of my most recent work</p>
+          <p className='py-6 text-2xl'>Check out my work progress in different technologies </p>
         </div>
-{/* Container */}
+            {/* Container */}
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${techshare})` }}
+            style={{ backgroundImage: `url(${dreamytrips})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                  TechShare Application
+                 Dreamy trips Application
               </span>
-              <p className='text-center'>Built with React,Express and Mongodb, I used Firefox for auth and deploy front, and railway to upload the server</p>
+              <p className='text-center'>A CBT web application built with HTML, CSS Grid Layout , Bootstrap and javascript</p>
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -66,15 +66,15 @@ function Works() {
           </div>
           
           <div
-            style={{ backgroundImage: `url(${dreamytrips})` }}
+            style={{ backgroundImage: `url(${techshare})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-               Dreamy trips Application
+               TechShare Application
               </span>
-              <p className='text-center'>A CBT web application built with HTML-CSS, Bootstrap and javascript</p>
+              <p className='text-center'>Built with React,Express and Mongodb, I used Firefox for auth and deploy front, and railway to upload the server</p>
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
