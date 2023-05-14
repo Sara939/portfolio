@@ -48,7 +48,7 @@ function Works() {
               <div className='pt-8 text-center'>
                 <a href=' https://sara-likaount.github.io/Get-Inspired/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Go To Site
+                    Visit Website
                   </button>
                 </a>
               </div>
@@ -68,7 +68,7 @@ function Works() {
               <div className='pt-8 text-center'>
                 <a href='https://techshare-2bcb6.web.app'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                  Go To Site
+                  Visit Website
                   </button>
                 </a>
               </div>
