@@ -1,6 +1,10 @@
 import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
 import me2 from '../assets/me2.png';
+import me1 from '../assets/me1.png';
+import me from '../assets/me.png';
+import me3 from '../assets/me3.png';
+
 import { Link } from "react-scroll"; 
 
 function Home() {
@@ -36,7 +40,7 @@ function Home() {
       </div>
       <div>
         <img
-          src={me2}  
+          src={me1}  
           alt="my profile"
           className="rounded-2xl mx-auto w-2/3 md:w-full"
         />
