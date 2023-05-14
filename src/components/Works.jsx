@@ -13,14 +13,14 @@ function Works() {
           </p>
           <p className='py-6 text-2xl'>Check out my work progress in different technologies </p>
         </div>
-            {/* Container */}
+
+        {/* Container */}
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
-            {/* Grid Item */}
+
           <div
             style={{ backgroundImage: `url(${dreamytrips})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
-            {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
                  Dreamy trips Application
@@ -35,11 +35,13 @@ function Works() {
               </div>
             </div>
           </div>
+
+          
           <div
             style={{ backgroundImage: `url(${getinspierd})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
-            {/* Hover Effects */}
+
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
                   Get Inspierd Application
@@ -55,11 +57,12 @@ function Works() {
             </div>
           </div>
           
+
           <div
             style={{ backgroundImage: `url(${techshare})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
-            {/* Hover Effects */}
+
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
                TechShare Application
