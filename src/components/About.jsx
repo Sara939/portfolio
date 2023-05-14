@@ -5,7 +5,7 @@ import React from 'react'
     <div
       name="about"
       id="about"
-      className="w-full h-screen bg-[#0a192f] text-gray-300"
+      className="w-full p-8 bg-[#0a192f] text-gray-300"
     >
       <div className="flex flex-col justify-center items-center w-full h-full">
         <div className=" py-16 rounded-md bg-cyan-800 flex flex-col justify-center items-center w-4/6">
@@ -17,7 +17,7 @@ import React from 'react'
             </div>
             <div></div>
           </div>
-          <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
+          <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4 p-12">
             <div className="sm:text-right text-4xl font-bold">
               <p>
                 Hi. I'm Sara Likaount, nice to meet you. Please take a
