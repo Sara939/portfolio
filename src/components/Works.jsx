@@ -67,7 +67,7 @@ function Works() {
               <span className=' text-lg font-bold text-white tracking-wider'>
                TechShare Application
               </span>
-              <p className='text-center'>Built with React,Express and Mongodb, I used Firefox for auth and deploy front, and railway to upload the server</p>
+              <p className='text-center'>Built with React,Express and Mongodb, I used Firefox for auth and hosting front-end, and railway to host the server</p>
               <div className='pt-8 text-center'>
                 <a href='https://techshare-2bcb6.web.app'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
