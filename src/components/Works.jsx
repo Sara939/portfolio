@@ -46,7 +46,7 @@ function Works() {
               <span className=' text-lg font-bold text-white tracking-wider'>
                   Get Inspierd Application
               </span>
-              <p className='text-center'> Built with Java script and Web api such as wikipedia api and more, deployed to github pages</p>
+              <p className='text-center'> Built with Java script and Web api , deployed to github pages</p>
               <div className='pt-8 text-center'>
                 <a href=' https://sara-likaount.github.io/Get-Inspired/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -67,7 +67,7 @@ function Works() {
               <span className=' text-lg font-bold text-white tracking-wider'>
                TechShare Application
               </span>
-              <p className='text-center'>Built with React,Express and Mongodb, I used Firefox for auth and deploy front, and railway to upload the server</p>
+              <p className='text-center'>Built with React,Express and Mongodb, I used Firebase for auth and deploy front, and railway to upload the server</p>
               <div className='pt-8 text-center'>
                 <a href='https://techshare-2bcb6.web.app'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
